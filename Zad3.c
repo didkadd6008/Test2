@@ -71,7 +71,7 @@ void symbol(char* num){
 int main(){
     char str[500];
    char number[500];
-    scanf("%c",str);
+    scanf("%s",str);
      strcpy(number,str);
     
     int i = 0;
